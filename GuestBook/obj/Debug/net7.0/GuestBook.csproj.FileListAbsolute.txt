@@ -1,0 +1,14 @@
+C:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\GuestBook\bin\Debug\net7.0\GuestBook.exe
+C:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\GuestBook\bin\Debug\net7.0\GuestBook.deps.json
+C:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\GuestBook\bin\Debug\net7.0\GuestBook.runtimeconfig.json
+C:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\GuestBook\bin\Debug\net7.0\GuestBook.dll
+C:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\GuestBook\bin\Debug\net7.0\GuestBook.pdb
+C:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\GuestBook\obj\Debug\net7.0\GuestBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\GuestBook\obj\Debug\net7.0\GuestBook.AssemblyInfoInputs.cache
+C:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\GuestBook\obj\Debug\net7.0\GuestBook.AssemblyInfo.cs
+C:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\GuestBook\obj\Debug\net7.0\GuestBook.csproj.CoreCompileInputs.cache
+C:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\GuestBook\obj\Debug\net7.0\GuestBook.dll
+C:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\GuestBook\obj\Debug\net7.0\refint\GuestBook.dll
+C:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\GuestBook\obj\Debug\net7.0\GuestBook.pdb
+C:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\GuestBook\obj\Debug\net7.0\GuestBook.genruntimeconfig.cache
+C:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\GuestBook\obj\Debug\net7.0\ref\GuestBook.dll
