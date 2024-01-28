@@ -1,0 +1,40 @@
+SO This is would framework
+
+we have 25 spotted grid, and there are some ships
+2 users fight with each other
+
+they can select ships, 2 long, 2 medium, 1 small
+
+Win who destroyed all of oponents ships
+
+Ask only name? I think this enough.
+Then choose, where to put his ships.
+Do this to second playe also.
+Game start, they pick cell, and we prompt hited, or missed.
+Then turn switch.
+
+When all ships destoryed, prompt the winner.
+End and application.
+
+**************** W & O ****************
+
+------ PRO TIP -------
+Planning does not mean perfect.
+Identify the big picture and try to ask good questions.
+
+
+************** U, L & D *****************
+U - User interface, is console. And after each shot we show picture of grid. 
+And show where he hit, and missed. X for hit, O for miss, *(star) for unknown.
+
+L - Ask where to put ships. Create 2 grids, with ships. And after each shot, change grid view, and check status.
+
+D - So we need class for Grid, Game, Ship. Game have 2 Grids, with 5 ships each. 
+We have value to know who's turn. So we need also some info, about how many shots are taken.
+Data info we can store in grid.
+And we have winner, if someone wins. We end application, and show data.
+
+
+-------- PRO TIP ---------
+Planning your data and UI on paper will make 
+starting off your application much easier.

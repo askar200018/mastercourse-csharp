@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O1YH9IfvurgJeOxWN5YqdVZsjcPk74GOYGl1zrYu6F7I6tGOQbIiFillBs3u8Ag+s0op5nH7RvPfKzIlqpdi9Q==",
+  "success": true,
+  "projectFilePath": "/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/GuestBook/GuestBook.csproj",
+  "expectedPackageFiles": [
+    "/Users/askar/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/askar/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/askar/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

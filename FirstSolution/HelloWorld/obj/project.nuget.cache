@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3NZNnxUgwzXD9Qk3pl1wqiWBjfW0/0XdtZXV8zuqq+S8ANC7pgYmV5//yPKVLxaJ2qa278GQMgWq6vtysB3ibQ==",
+  "success": true,
+  "projectFilePath": "/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/askar/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/askar/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/askar/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/bin/Debug/net8.0/BattleshipLiteLibrary.deps.json
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/bin/Debug/net8.0/BattleshipLiteLibrary.dll
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/bin/Debug/net8.0/BattleshipLiteLibrary.pdb
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/obj/Debug/net8.0/BattleshipLiteLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/obj/Debug/net8.0/BattleshipLiteLibrary.AssemblyInfoInputs.cache
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/obj/Debug/net8.0/BattleshipLiteLibrary.AssemblyInfo.cs
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/obj/Debug/net8.0/BattleshipLiteLibrary.csproj.CoreCompileInputs.cache
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/obj/Debug/net8.0/BattleshipLiteLibrary.sourcelink.json
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/obj/Debug/net8.0/BattleshipLiteLibrary.dll
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/obj/Debug/net8.0/refint/BattleshipLiteLibrary.dll
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/obj/Debug/net8.0/BattleshipLiteLibrary.pdb
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/obj/Debug/net8.0/ref/BattleshipLiteLibrary.dll

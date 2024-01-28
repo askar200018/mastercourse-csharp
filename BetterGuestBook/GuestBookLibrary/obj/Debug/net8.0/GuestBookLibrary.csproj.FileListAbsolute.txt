@@ -1,0 +1,12 @@
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/BetterGuestBook/GuestBookLibrary/bin/Debug/net8.0/GuestBookLibrary.deps.json
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/BetterGuestBook/GuestBookLibrary/bin/Debug/net8.0/GuestBookLibrary.dll
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/BetterGuestBook/GuestBookLibrary/bin/Debug/net8.0/GuestBookLibrary.pdb
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/BetterGuestBook/GuestBookLibrary/obj/Debug/net8.0/GuestBookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/BetterGuestBook/GuestBookLibrary/obj/Debug/net8.0/GuestBookLibrary.AssemblyInfoInputs.cache
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/BetterGuestBook/GuestBookLibrary/obj/Debug/net8.0/GuestBookLibrary.AssemblyInfo.cs
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/BetterGuestBook/GuestBookLibrary/obj/Debug/net8.0/GuestBookLibrary.csproj.CoreCompileInputs.cache
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/BetterGuestBook/GuestBookLibrary/obj/Debug/net8.0/GuestBookLibrary.sourcelink.json
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/BetterGuestBook/GuestBookLibrary/obj/Debug/net8.0/GuestBookLibrary.dll
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/BetterGuestBook/GuestBookLibrary/obj/Debug/net8.0/refint/GuestBookLibrary.dll
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/BetterGuestBook/GuestBookLibrary/obj/Debug/net8.0/GuestBookLibrary.pdb
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/BetterGuestBook/GuestBookLibrary/obj/Debug/net8.0/ref/GuestBookLibrary.dll

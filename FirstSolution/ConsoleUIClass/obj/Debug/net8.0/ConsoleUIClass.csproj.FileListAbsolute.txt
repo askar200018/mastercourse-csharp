@@ -1,0 +1,15 @@
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ConsoleUIClass/obj/Debug/net8.0/ConsoleUIClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ConsoleUIClass/obj/Debug/net8.0/ConsoleUIClass.AssemblyInfoInputs.cache
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ConsoleUIClass/obj/Debug/net8.0/ConsoleUIClass.AssemblyInfo.cs
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ConsoleUIClass/obj/Debug/net8.0/ConsoleUIClass.csproj.CoreCompileInputs.cache
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ConsoleUIClass/obj/Debug/net8.0/ConsoleUIClass.sourcelink.json
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ConsoleUIClass/bin/Debug/net8.0/ConsoleUIClass
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ConsoleUIClass/bin/Debug/net8.0/ConsoleUIClass.deps.json
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ConsoleUIClass/bin/Debug/net8.0/ConsoleUIClass.runtimeconfig.json
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ConsoleUIClass/bin/Debug/net8.0/ConsoleUIClass.dll
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ConsoleUIClass/bin/Debug/net8.0/ConsoleUIClass.pdb
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ConsoleUIClass/obj/Debug/net8.0/ConsoleUIClass.dll
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ConsoleUIClass/obj/Debug/net8.0/refint/ConsoleUIClass.dll
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ConsoleUIClass/obj/Debug/net8.0/ConsoleUIClass.pdb
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ConsoleUIClass/obj/Debug/net8.0/ConsoleUIClass.genruntimeconfig.cache
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ConsoleUIClass/obj/Debug/net8.0/ref/ConsoleUIClass.dll

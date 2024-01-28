@@ -1,0 +1,12 @@
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ClassLibrary/DemoLibrary/bin/Debug/net8.0/DemoLibrary.deps.json
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ClassLibrary/DemoLibrary/bin/Debug/net8.0/DemoLibrary.dll
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ClassLibrary/DemoLibrary/bin/Debug/net8.0/DemoLibrary.pdb
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ClassLibrary/DemoLibrary/obj/Debug/net8.0/DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ClassLibrary/DemoLibrary/obj/Debug/net8.0/DemoLibrary.AssemblyInfoInputs.cache
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ClassLibrary/DemoLibrary/obj/Debug/net8.0/DemoLibrary.AssemblyInfo.cs
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ClassLibrary/DemoLibrary/obj/Debug/net8.0/DemoLibrary.csproj.CoreCompileInputs.cache
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ClassLibrary/DemoLibrary/obj/Debug/net8.0/DemoLibrary.sourcelink.json
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ClassLibrary/DemoLibrary/obj/Debug/net8.0/DemoLibrary.dll
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ClassLibrary/DemoLibrary/obj/Debug/net8.0/refint/DemoLibrary.dll
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ClassLibrary/DemoLibrary/obj/Debug/net8.0/DemoLibrary.pdb
+/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/ClassLibrary/DemoLibrary/obj/Debug/net8.0/ref/DemoLibrary.dll
