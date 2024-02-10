@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleUI
-build_property.ProjectDir = /Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/ConsoleUI/
+build_property.ProjectDir = c:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\Battleship\ConsoleUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

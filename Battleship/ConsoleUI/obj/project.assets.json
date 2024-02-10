@@ -27,32 +27,40 @@
     ]
   },
   "packageFolders": {
-    "/Users/askar/.nuget/packages/": {}
+    "C:\\Users\\oskar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/ConsoleUI/ConsoleUI.csproj",
+      "projectUniqueName": "c:\\Users\\oskar\\Desktop\\askar\\projects\\dotnet-projects\\mastercourse-c#\\Battleship\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/ConsoleUI/ConsoleUI.csproj",
-      "packagesPath": "/Users/askar/.nuget/packages/",
-      "outputPath": "/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/ConsoleUI/obj/",
+      "projectPath": "c:\\Users\\oskar\\Desktop\\askar\\projects\\dotnet-projects\\mastercourse-c#\\Battleship\\ConsoleUI\\ConsoleUI.csproj",
+      "packagesPath": "C:\\Users\\oskar\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\oskar\\Desktop\\askar\\projects\\dotnet-projects\\mastercourse-c#\\Battleship\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/askar/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\oskar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/BattleshipLiteLibrary.csproj": {
-              "projectPath": "/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/BattleshipLiteLibrary.csproj"
+            "c:\\Users\\oskar\\Desktop\\askar\\projects\\dotnet-projects\\mastercourse-c#\\Battleship\\BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj": {
+              "projectPath": "c:\\Users\\oskar\\Desktop\\askar\\projects\\dotnet-projects\\mastercourse-c#\\Battleship\\BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj"
             }
           }
         }
@@ -82,7 +90,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

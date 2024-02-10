@@ -10,3 +10,15 @@
 /Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/obj/Debug/net8.0/refint/BattleshipLiteLibrary.dll
 /Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/obj/Debug/net8.0/BattleshipLiteLibrary.pdb
 /Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/BattleshipLiteLibrary/obj/Debug/net8.0/ref/BattleshipLiteLibrary.dll
+c:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\Battleship\BattleshipLiteLibrary\bin\Debug\net8.0\BattleshipLiteLibrary.deps.json
+c:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\Battleship\BattleshipLiteLibrary\bin\Debug\net8.0\BattleshipLiteLibrary.dll
+c:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\Battleship\BattleshipLiteLibrary\bin\Debug\net8.0\BattleshipLiteLibrary.pdb
+c:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\Battleship\BattleshipLiteLibrary\obj\Debug\net8.0\BattleshipLiteLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\Battleship\BattleshipLiteLibrary\obj\Debug\net8.0\BattleshipLiteLibrary.AssemblyInfoInputs.cache
+c:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\Battleship\BattleshipLiteLibrary\obj\Debug\net8.0\BattleshipLiteLibrary.AssemblyInfo.cs
+c:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\Battleship\BattleshipLiteLibrary\obj\Debug\net8.0\BattleshipLiteLibrary.csproj.CoreCompileInputs.cache
+c:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\Battleship\BattleshipLiteLibrary\obj\Debug\net8.0\BattleshipLiteLibrary.sourcelink.json
+c:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\Battleship\BattleshipLiteLibrary\obj\Debug\net8.0\BattleshipLiteLibrary.dll
+c:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\Battleship\BattleshipLiteLibrary\obj\Debug\net8.0\refint\BattleshipLiteLibrary.dll
+c:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\Battleship\BattleshipLiteLibrary\obj\Debug\net8.0\BattleshipLiteLibrary.pdb
+c:\Users\oskar\Desktop\askar\projects\dotnet-projects\mastercourse-c#\Battleship\BattleshipLiteLibrary\obj\Debug\net8.0\ref\BattleshipLiteLibrary.dll

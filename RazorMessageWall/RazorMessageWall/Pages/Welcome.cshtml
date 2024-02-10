@@ -1,0 +1,24 @@
+﻿@page
+@model MyApp.Namespace.WelcomeModel
+@{
+  ViewData["Title"] = "Welcome page";
+}
+
+<h2>Welcome to the welcome page</h2>
+
+<form method="post">
+  <div class="mb-3">
+    <label asp-for="FirstName" class="form-label">First Name</label>
+    <input asp-for="FirstName" type="text" class="form-control">
+  </div>
+  <div class="mb-3">
+    <label asp-for="LastName" class="form-label">Last Name</label>
+    <input asp-for="LastName" type="text" class="form-control">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@if (Model.FirstName != null && Model.LastName != null)
+{
+  <h3>Welcome @Model.FirstName @Model.LastName</h3>
+}

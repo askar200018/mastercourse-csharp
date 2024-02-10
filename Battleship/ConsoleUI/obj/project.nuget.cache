@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/TBnXxSpvHCjZ5tVLoSgHOl8m9E6iYc0W0SH32JH2FhDz8w3wpNVsiUnFvq6ilWlTyvvZO8CXfIaeBdSjugJHA==",
+  "dgSpecHash": "qRmZv/2WrFiFSrnMxYjCx68pr3CnOpGo0l5DOpyeG83yknw6+7i64mpe+TxZrV4y9Z2feVuo+TOo+avIRxhLGQ==",
   "success": true,
-  "projectFilePath": "/Users/askar/Desktop/projects/dotnet-projects/mastercourse-csharp/Battleship/ConsoleUI/ConsoleUI.csproj",
+  "projectFilePath": "c:\\Users\\oskar\\Desktop\\askar\\projects\\dotnet-projects\\mastercourse-c#\\Battleship\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
