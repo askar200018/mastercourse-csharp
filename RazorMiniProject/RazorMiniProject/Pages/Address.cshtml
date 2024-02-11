@@ -1,0 +1,26 @@
+﻿@page
+@model MyApp.Namespace.AddressModel
+@{
+  ViewData["Title"] = "Address Page";
+}
+
+<form method="post">
+  <div class="mb-3">
+    <label asp-for="City" class="form-label">City </label>
+    <input asp-for="City" type="text" class="form-control">
+  </div>
+  <div class="mb-3">
+    <label asp-for="Street" class="form-label">Street</label>
+    <input asp-for="Street" type="text" class="form-control">
+  </div>
+  <div class="mb-3">
+    <label asp-for="ZipCode" class="form-label">Zip Code</label>
+    <input asp-for="ZipCode" type="text" class="form-control">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+<h2>Address Information</h2>
+<p>City: @Model.City</p>
+<p>Street: @Model.Street</p>
+<p>Zip Code: @Model.ZipCode</p>

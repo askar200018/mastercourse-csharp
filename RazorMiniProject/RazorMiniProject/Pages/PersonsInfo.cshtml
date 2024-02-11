@@ -1,0 +1,30 @@
+﻿@page
+@model MyApp.Namespace.PersonsInfoModel
+@{
+  ViewData["Title"] = "Person's Info page";
+}
+
+
+<form method="post">
+  <div class="mb-3">
+    <label asp-for="FirstName" class="form-label">First Name</label>
+    <input asp-for="FirstName" type="text" class="form-control">
+  </div>
+  <div class="mb-3">
+    <label asp-for="LastName" class="form-label">Last Name</label>
+    <input asp-for="LastName" type="text" class="form-control">
+  </div>
+  <div class="mb-3">
+    <label asp-for="Age" class="form-label">Age</label>
+    <input asp-for="Age" type="number" class="form-control">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+<div>
+  <h2>Person's Information is:</h2>
+  <p>First Name: @Model.FirstName</p>
+  <p>Last Name: @Model.LastName</p>
+  <p>Age: @Model.Age</p>
+</div>
