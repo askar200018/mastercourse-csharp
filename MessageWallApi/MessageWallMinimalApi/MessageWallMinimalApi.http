@@ -1,0 +1,19 @@
+@MessageWallMinimalApi_HostAddress = http://localhost:5204
+
+GET {{MessageWallMinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{MessageWallMinimalApi_HostAddress}}/api/messagewall?firstName=Askar
+
+
+###
+
+POST {{MessageWallMinimalApi_HostAddress}}/api/messagewall
+Content-Type: application/json
+
+{
+    "Id": 1,
+    "Message": "C# awesome!"
+}
