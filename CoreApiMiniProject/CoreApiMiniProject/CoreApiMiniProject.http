@@ -1,0 +1,26 @@
+@CoreApiMiniProject_HostAddress = http://localhost:5211
+
+GET {{CoreApiMiniProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{CoreApiMiniProject_HostAddress}}/api/person
+Content-Type: application/json
+
+{
+    "FirstName": "John",
+    "LastName": "Doe",
+    "IsActive": false
+}
+
+###
+
+POST {{CoreApiMiniProject_HostAddress}}/api/address
+Content-Type: application/json
+
+{
+    "City": "Anytown",
+    "Street": "123 Main St",
+    "ZipCode": "12345"
+}
