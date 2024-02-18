@@ -1,0 +1,44 @@
+﻿@page "/personinfo"
+
+<PageTitle>Person Info</PageTitle>
+
+<h3>PersonInfo</h3>
+
+
+<EditForm Model="model" OnValidSubmit="SubmitForm">
+  <DataAnnotationsValidator />
+  <ValidationSummary />
+
+  <div class="mb-3">
+    <label for="firstName" class="form-label">@nameof(model.FirstName)</label>
+    <InputText id="firstName" @bind-Value="model.FirstName" />
+  </div>
+  <div class="mb-3">
+    <label for="lastName" class="form-label">@nameof(model.LastName)</label>
+    <InputText id="lastName" @bind-Value="model.LastName" />
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+
+</EditForm>
+
+<ul>
+  @foreach (var person in people)
+  {
+    <li>@person.FirstName @person.LastName</li>
+  }
+</ul>
+
+
+
+
+@code {
+  private PersonModel model = new PersonModel();
+  private List<PersonModel> people = new List<PersonModel>();
+
+  private void SubmitForm()
+  {
+    people.Add(model);
+    model = new PersonModel();
+  }
+}
