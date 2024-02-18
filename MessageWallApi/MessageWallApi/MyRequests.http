@@ -1,0 +1,12 @@
+GET http://localhost:5180/api/messagewall
+
+
+###
+
+POST http://localhost:5180/api/messagewall
+Content-Type: application/json
+
+{
+    "Id": 1,
+    "Message": "Hello World!"
+}

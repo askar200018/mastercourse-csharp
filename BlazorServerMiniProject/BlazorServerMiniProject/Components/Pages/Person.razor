@@ -1,0 +1,41 @@
+﻿@page "/person"
+@rendermode InteractiveServer
+
+<PageTitle>Person Info</PageTitle>
+
+
+<h3>Person</h3>
+
+<EditForm Model="model" OnValidSubmit="SubmitForm" FormName="PersonForm">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="mb-3">
+        <label for="firstName" class="form-label">@nameof(model.FirstName)</label>
+        <InputText id="firstName" class="form-control" @bind-Value="model.FirstName" />
+    </div>
+    <div class="mb-3">
+        <label for="lastName" class="form-label">@nameof(model.LastName)</label>
+        <InputText id="lastName" class="form-control" @bind-Value="model.LastName" />
+    </div>
+    <div class="mb-3 form-check">
+        <InputCheckbox id="isActive" @bind-Value="model.IsActive" />
+        <label class="form-check-label" for="isActive">@nameof(model.IsActive)</label>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</EditForm>
+
+@if (model.FirstName != null)
+{
+    <p>Hello, @model.FirstName @model.LastName</p>
+}
+
+
+@code {
+    private PersonModel model = new PersonModel();
+
+    private void SubmitForm()
+    {
+        Console.WriteLine("Form submitted");
+    }
+}

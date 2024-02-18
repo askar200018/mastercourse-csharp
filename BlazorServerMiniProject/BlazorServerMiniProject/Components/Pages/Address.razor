@@ -1,0 +1,40 @@
+﻿@page "/address"
+@rendermode InteractiveServer
+
+<h3>Address</h3>
+
+<PageTitle>Address Info</PageTitle>
+
+
+<EditForm Model="@model" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="mb-3">
+        <label for="city" class="form-label">@nameof(model.City)</label>
+        <InputText id="city" class="form-control" @bind-Value="model.City" />
+    </div>
+    <div class="mb-3">
+        <label for="street" class="form-label">@nameof(model.Street)</label>
+        <InputText id="street" class="form-control" @bind-Value="model.Street" />
+    </div>
+    <div class="mb-3">
+        <label for="zipCode" class="form-label">@nameof(model.ZipCode)</label>
+        <InputText id="zipCode" class="form-control" @bind-Value="model.ZipCode" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+
+
+</EditForm>
+
+
+@code {
+    private AddressModel model = new AddressModel();
+
+    private void HandleValidSubmit()
+    {
+
+    }
+
+}
